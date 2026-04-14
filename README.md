@@ -30,16 +30,6 @@ screenshots/ → output results
 Install dependencies:
 pip install -r requirements.txt
 
-## 🖼️ Branding Designs
-
-### Logo
-![Logo](images/logo.jpg)
-
-### Business Card
-![Business Card](images/business_card.jpg)
-
-### Infographic
-![Infographic](images/infographic.jpg)
 
 ## 📚 Concepts Covered
 - Image resizing, rotation, cropping
