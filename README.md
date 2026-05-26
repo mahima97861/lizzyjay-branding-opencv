@@ -39,6 +39,6 @@ pip install -r requirements.txt
 - Thresholding
 - Brightness and contrast adjustment
 
----
+----
 
 ⭐ Developed as a BCA project combining design + computer vision.
