@@ -9,7 +9,7 @@ The branding part includes:
 - Infographic
 
 The technical part includes:
-- Image processing using Python and OpenCV
+- Image processing using Python & OpenCV
 
 ## 🎯 Objectives
 - Build a complete brand identity
@@ -41,4 +41,4 @@ pip install -r requirements.txt
 
 ----
 
-⭐ Developed as a BCA project combining design + computer vision.
+⭐ Developed as a BCA project combining design + computer vision.For better advancement.
