@@ -1,5 +1,11 @@
 # 💄 LizzyJay Cosmetics Branding & OpenCV Project
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+
 ## 🚀 Overview
 
 **LizzyJay Cosmetics Branding & OpenCV Project** is a unique combination of **Graphic Design** and **Computer Vision**. The project demonstrates both creative branding skills and technical image processing concepts.
