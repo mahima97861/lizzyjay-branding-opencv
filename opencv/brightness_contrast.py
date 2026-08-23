@@ -16,3 +16,5 @@ cv2.imshow("High Contrast Image", high_contrast)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+
