@@ -1,6 +1,6 @@
 import cv2
 
-image = cv2.imread("logo.jpg", 0)  # read in grayscale
+image = cv2.imread("logo.jpg", 0)  # read in gray scale
 
 # Canny Edge Detection
 edges = cv2.Canny(image, 100, 200)
